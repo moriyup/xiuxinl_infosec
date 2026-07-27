@@ -35,11 +35,13 @@ A secure online shopping website with:
 - CSRF protection
 - Session management
 
-### 🏥 Privacy-Preserving Health Data Analysis Tool
+### 🏥 Performance and Privacy Analysis of Homomorphic Encryption Schemes for Secure Healthcare Data Analytics
 Final Year Project using Homomorphic Encryption:
-- Data computation on encrypted information
-- Privacy-preserving healthcare analysis
-- Python cryptography implementation
+- Homomorphic encryption benchmarking (Paillier, BFV, CKKS)
+- Privacy-preserving healthcare analytics
+- Python cryptography framework development
+- Encrypted computation on healthcare datasets
+- Multi-Criteria Decision Analysis (MCDM)
 
 ---
 
